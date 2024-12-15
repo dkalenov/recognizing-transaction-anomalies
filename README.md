@@ -1,4 +1,4 @@
-# Recognizing anomalies in financial and crypto translations
+# Recognizing anomalies in financial and crypto transactions
 
 1. Implementation Plan
 
